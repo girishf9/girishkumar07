@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/girishkumar07/static/css/main.956fad23.chunk.css",
+    "main.js": "/girishkumar07/static/js/main.3443c654.chunk.js",
+    "main.js.map": "/girishkumar07/static/js/main.3443c654.chunk.js.map",
+    "runtime-main.js": "/girishkumar07/static/js/runtime-main.91c67621.js",
+    "runtime-main.js.map": "/girishkumar07/static/js/runtime-main.91c67621.js.map",
+    "static/js/2.5937f0cf.chunk.js": "/girishkumar07/static/js/2.5937f0cf.chunk.js",
+    "static/js/2.5937f0cf.chunk.js.map": "/girishkumar07/static/js/2.5937f0cf.chunk.js.map",
+    "index.html": "/girishkumar07/index.html",
+    "precache-manifest.986643eaae548c883165e2cbcaf6dd06.js": "/girishkumar07/precache-manifest.986643eaae548c883165e2cbcaf6dd06.js",
+    "service-worker.js": "/girishkumar07/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/girishkumar07/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.5937f0cf.chunk.js.LICENSE.txt": "/girishkumar07/static/js/2.5937f0cf.chunk.js.LICENSE.txt",
+    "static/media/cartoon.jpg": "/girishkumar07/static/media/cartoon.5bcfe75c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91c67621.js",
+    "static/js/2.5937f0cf.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.3443c654.chunk.js"
+  ]
+}
